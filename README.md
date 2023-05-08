@@ -3,7 +3,8 @@
 
 
 ## Integrantes 
-- Esteban Marcelo Quiroz  
+- Esteban Marcelo Quiroz 
+- Dario Cuda 
 
 
 ## Proyecto: Contador binario.
