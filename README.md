@@ -3,7 +3,7 @@
 
 
 ## Integrantes 
-- Esteban Marcelo Quiroz 
+- Esteban M. Quiroz
 - Dario Cuda 
 
 
